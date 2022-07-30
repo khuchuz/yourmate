@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "885821595058",
+    "firebase_url": "https://yourmate-a0deb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "yourmate-a0deb",
+    "storage_bucket": "yourmate-a0deb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885821595058:android:8fbf033d321791bd6dd8ab",
+        "android_client_info": {
+          "package_name": "org.capstone.yourmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885821595058-6jr5uhh2eev2t4qjog9gl6pfsdcjfl9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdwroy2BUhgTsATuJgfkl5KKa5DBGfjPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885821595058-6jr5uhh2eev2t4qjog9gl6pfsdcjfl9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

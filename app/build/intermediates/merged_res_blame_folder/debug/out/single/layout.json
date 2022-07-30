@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/fragment_chat.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/fragment_profile.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/layout_item_contact.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/layout_item_contact.xml"
+    },
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/layout_loading_dialog.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/layout_loading_dialog.xml"
+    },
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/layout_item_sent_chat.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/layout_item_sent_chat.xml"
+    },
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/activity_settings.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/activity_chat.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/layout_item_received_chat.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/layout_item_received_chat.xml"
+    },
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/activity_login.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/activity_login.xml"
+    },
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/activity_home.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/activity_home.xml"
+    },
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/user_item.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/user_item.xml"
+    },
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/sent_chat_item.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/sent_chat_item.xml"
+    },
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/layout_item_article.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/layout_item_article.xml"
+    },
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/activity_register.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/activity_register.xml"
+    },
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/fragment_home.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/layout_item_friend_recommendation.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/layout_item_friend_recommendation.xml"
+    },
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/fragment_contacts.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/fragment_contacts.xml"
+    },
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/activity_splash_screen.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/received_chat_item.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/received_chat_item.xml"
+    },
+    {
+        "merged": "org.capstone.yourmate.app-mergeDebugResources-64:/layout/layout_item_place.xml",
+        "source": "org.capstone.yourmate.app-main-67:/layout/layout_item_place.xml"
+    }
+]

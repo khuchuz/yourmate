@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/drawable-v24/img_empty.xml" value="0.3205" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/drawable/bg_chat_box.xml" value="0.3165" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/drawable/bg_chip_primary.xml" value="0.3165" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/drawable/bg_chip_white.xml" value="0.3165" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/drawable/bg_container_rounded_primary.xml" value="0.3165" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/drawable/bg_container_rounded_secondary.xml" value="0.3165" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/drawable/bg_container_rounded_white.xml" value="0.3165" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/drawable/bg_dialog.xml" value="0.3165" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/drawable/bg_received_chat.xml" value="0.3165" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/drawable/bg_search_box.xml" value="0.3165" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/drawable/bg_search_box_gray.xml" value="0.3165" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/drawable/bg_sent_chat.xml" value="0.3165" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/font-v26/poppins.xml" value="0.39166666666666666" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/font/poppins.xml" value="0.39166666666666666" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/activity_chat.xml" value="0.33" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/activity_home.xml" value="0.36096014492753625" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/activity_login.xml" value="0.36096014492753625" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/activity_register.xml" value="0.36096014492753625" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/activity_settings.xml" value="0.36096014492753625" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/content_login.xml" value="0.18541666666666667" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/fragment_chat.xml" value="0.3625" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/fragment_contacts.xml" value="0.3625" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/fragment_first.xml" value="0.3625" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/fragment_profile.xml" value="0.3625" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/layout_item_article.xml" value="0.3614583333333333" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/layout_item_contact.xml" value="0.3614583333333333" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/layout_item_friend_recommendation.xml" value="0.3625" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/layout_item_people.xml" value="0.3614583333333333" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/layout_item_place.xml" value="0.3614583333333333" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/layout_item_received_chat.xml" value="0.3614583333333333" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/layout_item_sent_chat.xml" value="0.33" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/layout_loading_dialog.xml" value="0.36096014492753625" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/received_chat_item.xml" value="0.3625" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/sent_chat_item.xml" value="0.36096014492753625" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/layout/user_item.xml" value="0.36096014492753625" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3625" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/menu/menu_main.xml" value="0.3625" />
+        <entry key="..\:/Modul Latihan/Bangkit/Capstone/Mobile/yourmate-mobile/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1935" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/Projects/Mobile-Android/yourmate-mobile/app/src/main/res/layout/activity_chat.xml" value="0.5" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/Projects/Mobile-Android/yourmate-mobile/app/src/main/res/layout/activity_settings.xml" value="0.3203125" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/Projects/Mobile-Android/yourmate-mobile/app/src/main/res/layout/activity_splash_screen.xml" value="0.3203125" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/Projects/Mobile-Android/yourmate-mobile/app/src/main/res/layout/fragment_chat.xml" value="0.3203125" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/Projects/Mobile-Android/yourmate-mobile/app/src/main/res/layout/fragment_home.xml" value="0.3203125" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/Projects/Mobile-Android/yourmate-mobile/app/src/main/res/layout/fragment_profile.xml" value="0.3203125" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/Projects/Mobile-Android/yourmate-mobile/app/src/main/res/layout/layout_item_article.xml" value="0.3625" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/Projects/Mobile-Android/yourmate-mobile/app/src/main/res/layout/layout_item_contact.xml" value="0.3203125" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/Projects/Mobile-Android/yourmate-mobile/app/src/main/res/layout/user_item.xml" value="0.3625" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/YourMate/app/src/main/res/layout/activity_auth.xml" value="0.3625" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/YourMate/app/src/main/res/layout/activity_chat.xml" value="0.3359375" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/YourMate/app/src/main/res/layout/activity_home.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/YourMate/app/src/main/res/layout/activity_login.xml" value="0.3625" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/YourMate/app/src/main/res/layout/activity_main.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/YourMate/app/src/main/res/layout/activity_register.xml" value="0.3625" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/YourMate/app/src/main/res/layout/chat_item.xml" value="0.3359375" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/YourMate/app/src/main/res/layout/fragment_contacts.xml" value="0.25" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/YourMate/app/src/main/res/layout/fragment_dashboard.xml" value="0.28072916666666664" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/YourMate/app/src/main/res/layout/fragment_first2.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/YourMate/app/src/main/res/layout/fragment_second.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/YourMate/app/src/main/res/layout/fragment_second2.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/YourMate/app/src/main/res/layout/send_chat_item.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/YourMate/app/src/main/res/layout/sent_chat_item.xml" value="0.28072916666666664" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/YourMate/app/src/main/res/layout/user_item.xml" value="0.5" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/YourMate/app/src/main/res/menu/bottom_nav_menu.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/firma/Documents/Bangkit/YourMate/app/src/main/res/menu/menu_main.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

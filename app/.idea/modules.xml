@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/370754530/YourMate.iml" filepath="$PROJECT_DIR$/.idea/modules/370754530/YourMate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YourMate.app.iml" filepath="$PROJECT_DIR$/.idea/modules/YourMate.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YourMate.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/YourMate.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YourMate.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/YourMate.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YourMate.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/YourMate.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

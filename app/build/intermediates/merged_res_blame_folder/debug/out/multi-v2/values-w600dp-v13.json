@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.capstone.yourmate.app-mergeDebugResources-63:/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kuchuz\\Downloads\\Compressed\\Mobile-Android-main_2\\Mobile-Android-main\\yourmate-mobile\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "41",
+                        "endOffsets": "53"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="active">#069550</color>
+    <color name="black">#FF000000</color>
+    <color name="blue_100">#BBDEFB</color>
+    <color name="blue_200">#90CAF9</color>
+    <color name="blue_300">#64B5F6</color>
+    <color name="blue_400">#42A5F5</color>
+    <color name="blue_50">#E3F2FD</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="blue_600">#1E88E5</color>
+    <color name="blue_700">#1976D2</color>
+    <color name="blue_800">#1565C0</color>
+    <color name="blue_900">#0D47A1</color>
+    <color name="blue_gray_100">#B9C3D3</color>
+    <color name="blue_gray_200">#8D9DB5</color>
+    <color name="blue_gray_300">#627798</color>
+    <color name="blue_gray_400">#415C84</color>
+    <color name="blue_gray_50">#E3E7ED</color>
+    <color name="blue_gray_500">#1A4373</color>
+    <color name="blue_gray_600">#133C6B</color>
+    <color name="blue_gray_700">#083461</color>
+    <color name="blue_gray_800">#022B55</color>
+    <color name="blue_gray_900">#001B3D</color>
+    <color name="body_text_color">#424242</color>
+    <color name="disabled_text_color">#757575</color>
+    <color name="error">#D32F2F</color>
+    <color name="gray_100">#F5F5F5</color>
+    <color name="gray_200">#EEEEEE</color>
+    <color name="gray_300">#E0E0E0</color>
+    <color name="gray_400">#BDBDBD</color>
+    <color name="gray_50">#FAFAFA</color>
+    <color name="gray_500">#9E9E9E</color>
+    <color name="gray_600">#757575</color>
+    <color name="gray_700">#616161</color>
+    <color name="gray_800">#424242</color>
+    <color name="gray_900">#212121</color>
+    <color name="green_100">#C3E9D0</color>
+    <color name="green_200">#9BDBB3</color>
+    <color name="green_300">#70CD94</color>
+    <color name="green_400">#4DC27E</color>
+    <color name="green_50">#E6F6EC</color>
+    <color name="green_500">#1FB767</color>
+    <color name="green_600">#16A75C</color>
+    <color name="green_700">#069550</color>
+    <color name="green_800">#008444</color>
+    <color name="green_900">#006430</color>
+    <color name="header_text_color">#212121</color>
+    <color name="hint_text_color">#9E9E9E</color>
+    <color name="ic_launcher_background">#011456</color>
+    <color name="info">#1976D2</color>
+    <color name="on_primary">#ffffff</color>
+    <color name="on_secondary">#000000</color>
+    <color name="primary">#011456</color>
+    <color name="primary_dark">#00002d</color>
+    <color name="primary_light">#3c3a83</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red_100">#FFCDD2</color>
+    <color name="red_200">#EF9A9A</color>
+    <color name="red_300">#E57373</color>
+    <color name="red_400">#EF5350</color>
+    <color name="red_50">#FFEBEE</color>
+    <color name="red_500">#F44336</color>
+    <color name="red_600">#E53935</color>
+    <color name="red_700">#D32F2F</color>
+    <color name="red_800">#C62828</color>
+    <color name="red_900">#B71B1C</color>
+    <color name="secondary">#00adc0</color>
+    <color name="secondary_dark">#007d90</color>
+    <color name="secondary_light">#5ddff3</color>
+    <color name="sub_header_text_color">#616161</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="warning">#FFA600</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow_100">#FFEEB4</color>
+    <color name="yellow_200">#FFE483</color>
+    <color name="yellow_300">#FFDA4F</color>
+    <color name="yellow_400">#FFD026</color>
+    <color name="yellow_50">#FFF9E1</color>
+    <color name="yellow_500">#FFC800</color>
+    <color name="yellow_600">#FFB900</color>
+    <color name="yellow_700">#FFA600</color>
+    <color name="yellow_800">#FF9500</color>
+    <color name="yellow_900">#FF7500</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="high_radius">16dp</dimen>
+    <dimen name="low_radius">4dp</dimen>
+    <dimen name="medium_radius">8dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">YourMate</string>
+    <string name="default_web_client_id" translatable="false">885821595058-6jr5uhh2eev2t4qjog9gl6pfsdcjfl9c.apps.googleusercontent.com</string>
+    <string name="email">Email</string>
+    <string name="firebase_database_url" translatable="false">https://yourmate-a0deb-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="gcm_defaultSenderId" translatable="false">885821595058</string>
+    <string name="google_api_key" translatable="false">AIzaSyCdwroy2BUhgTsATuJgfkl5KKa5DBGfjPg</string>
+    <string name="google_app_id" translatable="false">1:885821595058:android:8fbf033d321791bd6dd8ab</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCdwroy2BUhgTsATuJgfkl5KKa5DBGfjPg</string>
+    <string name="google_storage_bucket" translatable="false">yourmate-a0deb.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="loading">Loading...</string>
+    <string name="login">Login</string>
+    <string name="login_now">Sudah punya akun? Login Sekarang</string>
+    <string name="name">Nama</string>
+    <string name="next">Next</string>
+    <string name="password">Password</string>
+    <string name="previous">Previous</string>
+    <string name="project_id" translatable="false">yourmate-a0deb</string>
+    <string name="register">Register</string>
+    <string name="register_account">Belum punya akun? Daftar Sekarang</string>
+    <string name="register_desc">Buat akun agar dapat menggunakan yourmate 😉.</string>
+    <string name="register_title">Buat Akun</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="welcome_desc">Hello, senang melihat anda kembali 😄. Anda bisa melanjutkan menggunakan app setelah anda login kembali.</string>
+    <string name="welcome_title">Selamat Datang 👋</string>
+    <style name="Base.Theme.YourMate" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="textAppearanceHeadline1">@style/TextAppearance.YourMate.Headline1</item>
+        <item name="textAppearanceHeadline2">@style/TextAppearance.YourMate.Headline2</item>
+        <item name="textAppearanceHeadline3">@style/TextAppearance.YourMate.Headline3</item>
+        <item name="textAppearanceHeadline4">@style/TextAppearance.YourMate.Headline4</item>
+        <item name="textAppearanceHeadline5">@style/TextAppearance.YourMate.Headline5</item>
+        <item name="textAppearanceHeadline6">@style/TextAppearance.YourMate.Headline6</item>
+        <item name="textAppearanceSubtitle1">@style/TextAppearance.YourMate.Subtitle1</item>
+        <item name="textAppearanceSubtitle2">@style/TextAppearance.YourMate.Subtitle2</item>
+        <item name="textAppearanceBody1">@style/TextAppearance.YourMate.Body1</item>
+        <item name="textAppearanceBody2">@style/TextAppearance.YourMate.Body2</item>
+        <item name="textAppearanceButton">@style/TextAppearance.YourMate.Button</item>
+        <item name="textAppearanceCaption">@style/TextAppearance.YourMate.Caption</item>
+        <item name="textAppearanceOverline">@style/TextAppearance.YourMate.Overline</item>
+        
+        <item name="android:textViewStyle">@style/Widget.YourMate.TextView</item>
+        <item name="circularProgressIndicatorStyle">
+            @style/Widget.YourMate.CircularProgressIndicator.Indeterminate
+        </item>
+        <item name="textInputStyle">@style/Widget.YourMate.TextInputLayout.OutlinedBox</item>
+    </style>
+    <style name="ShapeOverlay.YourMate.Button.Circle" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="Style.YourMate.Button.UnelevatedButton.Circle.Icon" parent="Widget.MaterialComponents.Button.UnelevatedButton.Icon">
+        <item name="iconPadding">0dp</item>
+        <item name="iconGravity">textStart</item>
+        <item name="iconSize">24dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetRight">0dp</item>
+        <item name="android:insetLeft">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="shapeAppearanceOverlay">@style/ShapeOverlay.YourMate.Button.Circle</item>
+    </style>
+    <style name="Style.YourMate.Text.Body.News" parent="TextAppearance.YourMate.Body2">
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="Style.YourMate.Text.Date.News" parent="TextAppearance.YourMate.Body2">
+        <item name="android:textColor">@color/gray_600</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+    <style name="Style.YourMate.Text.Header.News" parent="TextAppearance.YourMate.Headline6">
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="Style.YourMate.Text.Header.Page" parent="TextAppearance.YourMate.Headline6">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="Style.YourMate.Text.Header.Section" parent="TextAppearance.YourMate.Headline6">
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="TextAppearance.YourMate.Body1" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/body_text_color</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+    <style name="TextAppearance.YourMate.Body2" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/body_text_color</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+    <style name="TextAppearance.YourMate.Button" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+    <style name="TextAppearance.YourMate.Caption" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+    <style name="TextAppearance.YourMate.Headline1" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="android:textSize">96sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/header_text_color</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+    <style name="TextAppearance.YourMate.Headline2" parent="TextAppearance.MaterialComponents.Headline2">
+        <item name="android:textSize">60sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/header_text_color</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+    <style name="TextAppearance.YourMate.Headline3" parent="TextAppearance.MaterialComponents.Headline3">
+        <item name="android:textSize">48sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/header_text_color</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+    <style name="TextAppearance.YourMate.Headline4" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="android:textSize">34sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/header_text_color</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+    <style name="TextAppearance.YourMate.Headline5" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/header_text_color</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+    <style name="TextAppearance.YourMate.Headline6" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/header_text_color</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+    <style name="TextAppearance.YourMate.Overline" parent="TextAppearance.MaterialComponents.Overline">
+        <item name="android:textSize">10sp</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+    <style name="TextAppearance.YourMate.Subtitle1" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/sub_header_text_color</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+    <style name="TextAppearance.YourMate.Subtitle2" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/sub_header_text_color</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+    <style name="Theme.YourMate" parent="Base.Theme.YourMate">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_dark</item>
+        <item name="colorOnSecondary">@color/on_secondary</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+    <style name="Theme.YourMate.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.YourMate.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.YourMate.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="ThemeOverlay.YourMate.TextInputLayout.OutlinedBox" parent="">
+        <item name="editTextStyle">@style/Widget.YourMate.TextInputEditText.OutlinedBox</item>
+    </style>
+    <style name="Widget.YourMate.CircularProgressIndicator.Indeterminate" parent="Widget.MaterialComponents.CircularProgressIndicator">
+        <item name="android:indeterminate">true</item>
+        <item name="indicatorColor">?colorPrimary</item>
+        <item name="trackCornerRadius">4dp</item>
+    </style>
+    <style name="Widget.YourMate.TextInputEditText.OutlinedBox" parent="Widget.MaterialComponents.TextInputEditText.OutlinedBox">
+        <item name="android:textAppearance">?textAppearanceBody2</item>
+        <item name="hintTextColor">@color/color_hint_edit_text</item>
+        <item name="android:padding">16dp</item>
+    </style>
+    <style name="Widget.YourMate.TextInputLayout.OutlinedBox" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopEnd">@dimen/medium_radius</item>
+        <item name="boxCornerRadiusTopStart">@dimen/medium_radius</item>
+        <item name="boxCornerRadiusBottomEnd">@dimen/medium_radius</item>
+        <item name="boxCornerRadiusBottomStart">@dimen/medium_radius</item>
+        <item name="boxBackgroundColor">@color/color_background_text_input_layout</item>
+        <item name="boxStrokeColor">@color/color_stroke_text_input_layout</item>
+        <item name="hintEnabled">false</item>
+        <item name="materialThemeOverlay">@style/ThemeOverlay.YourMate.TextInputLayout.OutlinedBox
+        </item>
+    </style>
+    <style name="Widget.YourMate.TextView" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textAppearance">?textAppearanceBody2</item>
+        <item name="android:lineSpacingMultiplier">1.15</item>
+    </style>
+</resources>

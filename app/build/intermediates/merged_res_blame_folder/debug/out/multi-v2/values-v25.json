@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.capstone.yourmate.app-mergeDebugResources-63:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kuchuz\\.gradle\\caches\\transforms-3\\83d769f4552dbc0a2ad65ad0c77eb403\\transformed\\appcompat-1.4.1\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}
